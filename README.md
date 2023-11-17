@@ -1,1 +1,3 @@
 # Classification_celebrities
+
+The project aims to develop a computer vision classification system specifically designed to identify and classify celebrity faces. Utilizing advanced convolutional neural networks, it seeks to analyze images of public figures, extracting unique features to associate them with celebrity categories. The model will be trained on an extensive database of celebrity face images from various sources to achieve maximum accuracy and generalization in face recognition. The ultimate goal is to create a robust and precise tool capable of accurately classifying faces of famous personalities, presenting a wide range of potential applications such as security, image recognition, and entertainment.
